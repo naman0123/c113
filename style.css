@@ -1,0 +1,10 @@
+canvas {
+    border : 0;
+    border-radius: 20px;
+    box-shadow: 5px 5px 6px #0d0d0d;
+    background-color: rgb(248, 249, 250);
+}
+
+h1 {
+    padding: 20px;
+}
